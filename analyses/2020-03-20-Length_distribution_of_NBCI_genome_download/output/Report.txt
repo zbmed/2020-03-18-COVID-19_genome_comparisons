@@ -1,0 +1,4 @@
+Number of sequences: 176
+Minimal seq length: 87
+Maximum seq length: 29945
+Number of seqs over 25 kb: 106
