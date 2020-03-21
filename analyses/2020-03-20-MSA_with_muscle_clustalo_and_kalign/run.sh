@@ -16,7 +16,7 @@ main(){
     log_muscle_version
     log_kalign_version
     log_clustalo_version
-    # run_msa_with_muscle
+    run_msa_with_muscle
     run_msa_with_clustal_omega
     run_msa_with_kalign
     create_tree_with_raxml_ng
