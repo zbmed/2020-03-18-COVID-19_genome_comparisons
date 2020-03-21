@@ -8,6 +8,7 @@ main(){
     readonly OUTPUT_MUSCLE_SA_HTML=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_MUSCLE.html
     readonly OUTPUT_CLUSTALO_FASTA=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_clustal_omega.fasta
     readonly OUTPUT_KALIGN_FASTA=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_kalign.fasta
+    readonly OUTPUT_KALIGN_TREE_PREFIX=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_kalign_raxml_tree
 
 
     generate_folders
@@ -15,9 +16,10 @@ main(){
     log_muscle_version
     log_kalign_version
     log_clustalo_version
-    # run_msa_with_muscle    # Stopped as running very long
-    # run_msa_with_clustal_omega # Stopped as running very long
+    # run_msa_with_muscle
+    run_msa_with_clustal_omega
     run_msa_with_kalign
+    create_tree_with_raxml_ng
 }
 
 generate_folders(){
@@ -47,8 +49,7 @@ log_kalign_version(){
 run_msa_with_muscle(){
     muscle \
 	-in ${FILTERED_SEQ_FASTA} \
-	-out ${OUTPUT_MSA_AFA} \
-	-htmlout ${OUTPUT_MUSCLE_SA_HTML}
+	-out ${OUTPUT_MUSCLE_MSA_AFA}
 }
 
 run_msa_with_clustal_omega(){
@@ -65,6 +66,16 @@ run_msa_with_kalign(){
     	-output ${OUTPUT_KALIGN_FASTA} \
 	-format fasta
 }
+
+create_tree_with_raxml_ng(){
+    raxml-ng \
+	--msa ${OUTPUT_KALIGN_FASTA} \
+	--model GTR+G \
+	--prefix ${OUTPUT_KALIGN_TREE_PREFIX} \
+	--threads 2 \
+	--seed 1
+}
+
 
 
 main
