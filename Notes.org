@@ -1,3 +1,6 @@
 * <2020-03-20 Fri> - Multiple sequence alignemtn of 106 full genome from NCBI
 
-- work with kalign
+- folder: file:analyses/2020-03-20-MSA_with_muscle_clustalo_and_kalign/
+- Multiple sequence  alignment of 106 full genomes (~29kb long)
+- Result: MUSCLE and clustal omega are rather slow, while kaligne
+  cappable of doing this in under an hour
