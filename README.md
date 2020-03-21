@@ -1,4 +1,4 @@
-# COVID-19 Multiple sequence alignment of availble strains
+# COVID-19 - Comparison of available strains
 
 # Contact
 
