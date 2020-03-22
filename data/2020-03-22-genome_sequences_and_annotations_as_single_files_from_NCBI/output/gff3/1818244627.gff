@@ -1,0 +1,15 @@
+##sequence-region MT135044.1 1 29903
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT135044.1	Genbank	region	1	29903	.	+	.	ID=MT135044.1:1..29903;Dbxref=taxon:2697049;collection-date=28-Jan-2020;country=China: Beijing;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/235/human/2020/CHN;lat-lon=39.54 N 116.23 E;mol_type=genomic RNA;nat-host=Homo sapiens
+MT135044.1	Genbank	CDS	266	13468	.	+	0	ID=cds-QIH45052.1;Dbxref=NCBI_GP:QIH45052.1;Name=QIH45052.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIH45052.1
+MT135044.1	Genbank	CDS	13468	21555	.	+	0	ID=cds-QIH45052.1;Dbxref=NCBI_GP:QIH45052.1;Name=QIH45052.1;exception=ribosomal slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIH45052.1
+MT135044.1	Genbank	CDS	21563	25384	.	+	0	ID=cds-QIH45053.1;Dbxref=NCBI_GP:QIH45053.1;Name=QIH45053.1;gbkey=CDS;product=S protein;protein_id=QIH45053.1
+MT135044.1	Genbank	CDS	25393	26220	.	+	0	ID=cds-QIH45054.1;Dbxref=NCBI_GP:QIH45054.1;Name=QIH45054.1;gbkey=CDS;product=ORF3a protein;protein_id=QIH45054.1
+MT135044.1	Genbank	CDS	26245	26472	.	+	0	ID=cds-QIH45055.1;Dbxref=NCBI_GP:QIH45055.1;Name=QIH45055.1;gbkey=CDS;product=E protein;protein_id=QIH45055.1
+MT135044.1	Genbank	CDS	26523	27191	.	+	0	ID=cds-QIH45056.1;Dbxref=NCBI_GP:QIH45056.1;Name=QIH45056.1;gbkey=CDS;product=M protein;protein_id=QIH45056.1
+MT135044.1	Genbank	CDS	27202	27387	.	+	0	ID=cds-QIH45057.1;Dbxref=NCBI_GP:QIH45057.1;Name=QIH45057.1;gbkey=CDS;product=ORF6 protein;protein_id=QIH45057.1
+MT135044.1	Genbank	CDS	27394	27759	.	+	0	ID=cds-QIH45058.1;Dbxref=NCBI_GP:QIH45058.1;Name=QIH45058.1;gbkey=CDS;product=ORF7a protein;protein_id=QIH45058.1
+MT135044.1	Genbank	CDS	27894	28259	.	+	0	ID=cds-QIH45059.1;Dbxref=NCBI_GP:QIH45059.1;Name=QIH45059.1;gbkey=CDS;product=ORF8 protein;protein_id=QIH45059.1
+MT135044.1	Genbank	CDS	28274	29533	.	+	0	ID=cds-QIH45060.1;Dbxref=NCBI_GP:QIH45060.1;Name=QIH45060.1;gbkey=CDS;product=N protein;protein_id=QIH45060.1
+MT135044.1	Genbank	CDS	29558	29674	.	+	0	ID=cds-QIH45061.1;Dbxref=NCBI_GP:QIH45061.1;Name=QIH45061.1;gbkey=CDS;product=ORF10 protein;protein_id=QIH45061.1
+

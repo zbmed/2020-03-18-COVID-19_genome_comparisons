@@ -1,0 +1,17 @@
+##sequence-region MT163721.1 1 29325
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT163721.1	Genbank	region	1	29325	.	+	.	ID=MT163721.1:1..29325;Dbxref=taxon:2697049;collection-date=01-Mar-2020;country=USA: WA;gb-acronym=SARS-CoV-2;gbkey=Src;isolate=SARS-CoV-2/WA9-UW6/human/2020/USA;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT163721.1	Genbank	CDS	1	12890	.	+	2	ID=cds-QII87850.1;Dbxref=NCBI_GP:QII87850.1;Name=QII87850.1;exception=ribosomal slippage;gbkey=CDS;partial=true;product=orf1ab polyprotein;protein_id=QII87850.1;start_range=.,1
+MT163721.1	Genbank	CDS	12890	20977	.	+	0	ID=cds-QII87850.1;Dbxref=NCBI_GP:QII87850.1;Name=QII87850.1;exception=ribosomal slippage;gbkey=CDS;partial=true;product=orf1ab polyprotein;protein_id=QII87850.1
+MT163721.1	Genbank	CDS	1	12905	.	+	2	ID=cds-QII87851.1;Dbxref=NCBI_GP:QII87851.1;Name=QII87851.1;gbkey=CDS;partial=true;product=orf1a polyprotein;protein_id=QII87851.1;start_range=.,1
+MT163721.1	Genbank	CDS	20985	24806	.	+	0	ID=cds-QII87840.1;Dbxref=NCBI_GP:QII87840.1;Name=QII87840.1;gbkey=CDS;product=surface glycoprotein;protein_id=QII87840.1
+MT163721.1	Genbank	CDS	24815	25642	.	+	0	ID=cds-QII87841.1;Dbxref=NCBI_GP:QII87841.1;Name=QII87841.1;gbkey=CDS;product=ORF3a protein;protein_id=QII87841.1
+MT163721.1	Genbank	CDS	25667	25894	.	+	0	ID=cds-QII87842.1;Dbxref=NCBI_GP:QII87842.1;Name=QII87842.1;gbkey=CDS;product=envelope protein;protein_id=QII87842.1
+MT163721.1	Genbank	CDS	25945	26613	.	+	0	ID=cds-QII87843.1;Dbxref=NCBI_GP:QII87843.1;Name=QII87843.1;gbkey=CDS;product=membrane glycoprotein;protein_id=QII87843.1
+MT163721.1	Genbank	CDS	26624	26809	.	+	0	ID=cds-QII87844.1;Dbxref=NCBI_GP:QII87844.1;Name=QII87844.1;gbkey=CDS;product=ORF6 protein;protein_id=QII87844.1
+MT163721.1	Genbank	CDS	26816	27181	.	+	0	ID=cds-QII87845.1;Dbxref=NCBI_GP:QII87845.1;Name=QII87845.1;gbkey=CDS;product=ORF7a protein;protein_id=QII87845.1
+MT163721.1	Genbank	CDS	27178	27309	.	+	0	ID=cds-QII87846.1;Dbxref=NCBI_GP:QII87846.1;Name=QII87846.1;gbkey=CDS;product=ORF7b;protein_id=QII87846.1
+MT163721.1	Genbank	CDS	27316	27681	.	+	0	ID=cds-QII87847.1;Dbxref=NCBI_GP:QII87847.1;Name=QII87847.1;gbkey=CDS;product=ORF8 protein;protein_id=QII87847.1
+MT163721.1	Genbank	CDS	27696	28955	.	+	0	ID=cds-QII87848.1;Dbxref=NCBI_GP:QII87848.1;Name=QII87848.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=QII87848.1
+MT163721.1	Genbank	CDS	28980	29096	.	+	0	ID=cds-QII87849.1;Dbxref=NCBI_GP:QII87849.1;Name=QII87849.1;gbkey=CDS;product=ORF10 protein;protein_id=QII87849.1
+

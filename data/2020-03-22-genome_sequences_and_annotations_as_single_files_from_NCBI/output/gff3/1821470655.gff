@@ -1,0 +1,15 @@
+##sequence-region MT198653.1 1 29611
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT198653.1	Genbank	region	1	29611	.	+	.	ID=MT198653.1:1..29611;Dbxref=taxon:2697049;collection-date=08-Mar-2020;country=Spain: Valencia;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/Valencia001/human/2020/ESP;isolation-source=nasopharyngeal aspirate;mol_type=genomic RNA;nat-host=Homo sapiens
+MT198653.1	Genbank	CDS	212	13414	.	+	0	ID=cds-QIM47475.1;Dbxref=NCBI_GP:QIM47475.1;Name=QIM47475.1;exception=Ribosomal Slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIM47475.1
+MT198653.1	Genbank	CDS	13414	21501	.	+	0	ID=cds-QIM47475.1;Dbxref=NCBI_GP:QIM47475.1;Name=QIM47475.1;exception=Ribosomal Slippage;gbkey=CDS;product=orf1ab polyprotein;protein_id=QIM47475.1
+MT198653.1	Genbank	CDS	21509	25330	.	+	0	ID=cds-QIM47476.1;Dbxref=NCBI_GP:QIM47476.1;Name=QIM47476.1;gbkey=CDS;product=surface glycoprotein;protein_id=QIM47476.1
+MT198653.1	Genbank	CDS	25339	26166	.	+	0	ID=cds-QIM47477.1;Dbxref=NCBI_GP:QIM47477.1;Name=QIM47477.1;gbkey=CDS;product=ORF3a protein;protein_id=QIM47477.1
+MT198653.1	Genbank	CDS	26191	26418	.	+	0	ID=cds-QIM47478.1;Dbxref=NCBI_GP:QIM47478.1;Name=QIM47478.1;gbkey=CDS;product=envelope protein;protein_id=QIM47478.1
+MT198653.1	Genbank	CDS	26469	27137	.	+	0	ID=cds-QIM47479.1;Dbxref=NCBI_GP:QIM47479.1;Name=QIM47479.1;gbkey=CDS;product=membrane glycoprotein;protein_id=QIM47479.1
+MT198653.1	Genbank	CDS	27148	27333	.	+	0	ID=cds-QIM47480.1;Dbxref=NCBI_GP:QIM47480.1;Name=QIM47480.1;gbkey=CDS;product=ORF6 protein;protein_id=QIM47480.1
+MT198653.1	Genbank	CDS	27340	27705	.	+	0	ID=cds-QIM47481.1;Dbxref=NCBI_GP:QIM47481.1;Name=QIM47481.1;gbkey=CDS;product=ORF7a protein;protein_id=QIM47481.1
+MT198653.1	Genbank	CDS	27840	28205	.	+	0	ID=cds-QIM47482.1;Dbxref=NCBI_GP:QIM47482.1;Name=QIM47482.1;gbkey=CDS;product=ORF8 protein;protein_id=QIM47482.1
+MT198653.1	Genbank	CDS	28220	29479	.	+	0	ID=cds-QIM47483.1;Dbxref=NCBI_GP:QIM47483.1;Name=QIM47483.1;gbkey=CDS;product=nucleocapsid phosphoprotein;protein_id=QIM47483.1
+MT198653.1	Genbank	CDS	29504	29611	.	+	0	ID=cds-QIM47484.1;Dbxref=NCBI_GP:QIM47484.1;Name=QIM47484.1;end_range=29611,.;gbkey=CDS;partial=true;product=ORF10 protein;protein_id=QIM47484.1
+

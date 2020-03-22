@@ -1,0 +1,5 @@
+##sequence-region MT161607.1 1 253
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT161607.1	Genbank	region	1	253	.	+	.	ID=MT161607.1:1..253;Dbxref=taxon:2697049;collection-date=05-Mar-2020;country=Italy;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NIAA05032020/human/2020/ITA;isolation-source=pharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens%3B hospitalized patient
+MT161607.1	Genbank	five_prime_UTR	1	252	.	+	.	ID=id-MT161607.1:1..252;gbkey=5'UTR;partial=true;start_range=.,1
+

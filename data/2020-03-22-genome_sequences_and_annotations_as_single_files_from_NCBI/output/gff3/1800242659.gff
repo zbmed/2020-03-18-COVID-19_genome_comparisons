@@ -1,0 +1,6 @@
+##sequence-region MN938390.1 1 107
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MN938390.1	Genbank	region	1	107	.	+	.	ID=MN938390.1:1..107;Dbxref=taxon:2697049;collection-date=Jan-2020;country=China: Shenzhen;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019-nCoV_HKU-SZ-005_2020;isolation-source=throat swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MN938390.1	Genbank	gene	1	107	.	+	.	ID=gene-S;Name=S;end_range=107,.;gbkey=Gene;gene=S;gene_biotype=protein_coding;partial=true;start_range=.,1
+MN938390.1	Genbank	CDS	1	107	.	+	0	ID=cds-QHN73808.1;Parent=gene-S;Dbxref=NCBI_GP:QHN73808.1;Name=QHN73808.1;end_range=107,.;gbkey=CDS;gene=S;partial=true;product=surface glycoprotein;protein_id=QHN73808.1;start_range=.,1
+

@@ -1,0 +1,29 @@
+##sequence-region MT020781.2 1 29806
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT020781.2	Genbank	region	1	29806	.	+	.	ID=MT020781.2:1..29806;Dbxref=taxon:2697049;collection-date=29-Jan-2020;country=Finland;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=nCoV-FIN-29-Jan-2020;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT020781.2	Genbank	gene	266	21555	.	+	.	ID=gene-ORF1ab;Name=ORF1ab;gbkey=Gene;gene=ORF1ab;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	266	13468	.	+	0	ID=cds-QHU79171.2;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QHU79171.2;Name=QHU79171.2;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=orf1ab polyprotein;protein_id=QHU79171.2
+MT020781.2	Genbank	CDS	13468	21555	.	+	0	ID=cds-QHU79171.2;Parent=gene-ORF1ab;Dbxref=NCBI_GP:QHU79171.2;Name=QHU79171.2;exception=ribosomal slippage;gbkey=CDS;gene=ORF1ab;product=orf1ab polyprotein;protein_id=QHU79171.2
+MT020781.2	Genbank	gene	266	13483	.	+	.	ID=gene-ORF1a;Name=ORF1a;gbkey=Gene;gene=ORF1a;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	266	13483	.	+	0	ID=cds-QHU79172.2;Parent=gene-ORF1a;Dbxref=NCBI_GP:QHU79172.2;Name=QHU79172.2;gbkey=CDS;gene=ORF1a;product=orf1a polyprotein;protein_id=QHU79172.2
+MT020781.2	Genbank	gene	21563	25384	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	21563	25384	.	+	0	ID=cds-QHU79173.2;Parent=gene-S;Dbxref=NCBI_GP:QHU79173.2;Name=QHU79173.2;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHU79173.2
+MT020781.2	Genbank	gene	25393	26220	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	25393	26220	.	+	0	ID=cds-QHU79174.2;Parent=gene-ORF3a;Dbxref=NCBI_GP:QHU79174.2;Name=QHU79174.2;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QHU79174.2
+MT020781.2	Genbank	gene	26245	26472	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	26245	26472	.	+	0	ID=cds-QHU79175.1;Parent=gene-E;Dbxref=NCBI_GP:QHU79175.1;Name=QHU79175.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHU79175.1
+MT020781.2	Genbank	gene	26523	27191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	26523	27191	.	+	0	ID=cds-QHU79176.1;Parent=gene-M;Dbxref=NCBI_GP:QHU79176.1;Name=QHU79176.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QHU79176.1
+MT020781.2	Genbank	gene	27202	27387	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	27202	27387	.	+	0	ID=cds-QHU79177.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QHU79177.1;Name=QHU79177.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QHU79177.1
+MT020781.2	Genbank	gene	27394	27759	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	27394	27759	.	+	0	ID=cds-QHU79178.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QHU79178.1;Name=QHU79178.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QHU79178.1
+MT020781.2	Genbank	gene	27756	27887	.	+	.	ID=gene-ORF7b;Name=ORF7b;gbkey=Gene;gene=ORF7b;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	27756	27887	.	+	0	ID=cds-QHU79179.1;Parent=gene-ORF7b;Dbxref=NCBI_GP:QHU79179.1;Name=QHU79179.1;gbkey=CDS;gene=ORF7b;product=ORF7b protein;protein_id=QHU79179.1
+MT020781.2	Genbank	gene	27894	28259	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	27894	28259	.	+	0	ID=cds-QHU79180.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QHU79180.1;Name=QHU79180.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QHU79180.1
+MT020781.2	Genbank	gene	28274	29533	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	28274	29533	.	+	0	ID=cds-QHU79181.1;Parent=gene-N;Dbxref=NCBI_GP:QHU79181.1;Name=QHU79181.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QHU79181.1
+MT020781.2	Genbank	gene	29558	29674	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT020781.2	Genbank	CDS	29558	29674	.	+	0	ID=cds-QHU79182.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QHU79182.1;Name=QHU79182.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QHU79182.1
+

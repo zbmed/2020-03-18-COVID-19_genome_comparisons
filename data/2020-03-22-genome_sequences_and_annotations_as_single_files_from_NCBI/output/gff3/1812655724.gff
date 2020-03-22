@@ -1,0 +1,6 @@
+##sequence-region MT111895.1 1 770
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT111895.1	Genbank	region	1	770	.	+	.	ID=MT111895.1:1..770;Dbxref=taxon:2697049;collection-date=Feb-2020;country=Australia: Queensland;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/QLD05/human/2020_FSS918/AUS;isolation-source=sputum;mol_type=genomic RNA;nat-host=Homo sapiens
+MT111895.1	Genbank	gene	1	770	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=770,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT111895.1	Genbank	CDS	1	770	.	+	0	ID=cds-QID88857.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QID88857.1;Name=QID88857.1;end_range=770,.;gbkey=CDS;gene=orf1ab;partial=true;product=ORF1ab polyprotein;protein_id=QID88857.1;start_range=.,1
+

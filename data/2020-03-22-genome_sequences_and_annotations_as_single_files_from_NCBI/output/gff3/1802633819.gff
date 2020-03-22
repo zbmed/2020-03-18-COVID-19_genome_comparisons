@@ -1,0 +1,25 @@
+##sequence-region MN996529.1 1 29852
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MN996529.1	Genbank	region	1	29852	.	+	.	ID=MN996529.1:1..29852;Dbxref=taxon:2697049;collected-by=Wuhan Jinyintan Hospital;collection-date=30-Dec-2019;country=China: Wuhan;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=WIV05;isolation-source=bronchoalveolar lavage fluid;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MN996529.1	Genbank	gene	254	21543	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	254	13456	.	+	0	ID=cds-QHR63269.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHR63269.1;Name=QHR63269.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHR63269.1
+MN996529.1	Genbank	CDS	13456	21543	.	+	0	ID=cds-QHR63269.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHR63269.1;Name=QHR63269.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHR63269.1
+MN996529.1	Genbank	gene	21551	25372	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	21551	25372	.	+	0	ID=cds-QHR63270.2;Parent=gene-S;Dbxref=NCBI_GP:QHR63270.2;Name=QHR63270.2;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QHR63270.2
+MN996529.1	Genbank	gene	25381	26208	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	25381	26208	.	+	0	ID=cds-QHR63271.1;Parent=gene-NS3;Dbxref=NCBI_GP:QHR63271.1;Name=QHR63271.1;gbkey=CDS;gene=NS3;product=nonstructural protein NS3;protein_id=QHR63271.1
+MN996529.1	Genbank	gene	26233	26460	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	26233	26460	.	+	0	ID=cds-QHR63272.1;Parent=gene-E;Dbxref=NCBI_GP:QHR63272.1;Name=QHR63272.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHR63272.1
+MN996529.1	Genbank	gene	26511	27179	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	26511	27179	.	+	0	ID=cds-QHR63273.1;Parent=gene-M;Dbxref=NCBI_GP:QHR63273.1;Name=QHR63273.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QHR63273.1
+MN996529.1	Genbank	gene	27190	27375	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	27190	27375	.	+	0	ID=cds-QHR63274.1;Parent=gene-NS6;Dbxref=NCBI_GP:QHR63274.1;Name=QHR63274.1;gbkey=CDS;gene=NS6;product=nonstructural protein NS6;protein_id=QHR63274.1
+MN996529.1	Genbank	gene	27382	27747	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	27382	27747	.	+	0	ID=cds-QHR63275.1;Parent=gene-NS7a;Dbxref=NCBI_GP:QHR63275.1;Name=QHR63275.1;gbkey=CDS;gene=NS7a;product=nonstructural protein NS7a;protein_id=QHR63275.1
+MN996529.1	Genbank	gene	27744	27875	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	27744	27875	.	+	0	ID=cds-QHR63276.1;Parent=gene-NS7b;Dbxref=NCBI_GP:QHR63276.1;Name=QHR63276.1;gbkey=CDS;gene=NS7b;product=nonstructural protein NS7b;protein_id=QHR63276.1
+MN996529.1	Genbank	gene	27882	28247	.	+	.	ID=gene-NS8;Name=NS8;gbkey=Gene;gene=NS8;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	27882	28247	.	+	0	ID=cds-QHR63277.1;Parent=gene-NS8;Dbxref=NCBI_GP:QHR63277.1;Name=QHR63277.1;gbkey=CDS;gene=NS8;product=nonstructural protein NS8;protein_id=QHR63277.1
+MN996529.1	Genbank	gene	28262	29521	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN996529.1	Genbank	CDS	28262	29521	.	+	0	ID=cds-QHR63278.1;Parent=gene-N;Dbxref=NCBI_GP:QHR63278.1;Name=QHR63278.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QHR63278.1
+

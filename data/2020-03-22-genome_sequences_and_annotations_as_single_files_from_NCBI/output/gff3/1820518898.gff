@@ -1,0 +1,25 @@
+##sequence-region MT093631.2 1 29860
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT093631.2	Genbank	region	1	29860	.	+	.	ID=MT093631.2:1..29860;Dbxref=taxon:2697049;collection-date=08-Jan-2020;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/WH-09/human/2020/CHN;isolation-source=throat swab;mol_type=genomic RNA;nat-host=Homo sapiens;note=passage details: VERO-E6
+MT093631.2	Genbank	gene	253	21542	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	253	13455	.	+	0	ID=cds-QIC53222.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIC53222.1;Name=QIC53222.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIC53222.1
+MT093631.2	Genbank	CDS	13455	21542	.	+	0	ID=cds-QIC53222.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIC53222.1;Name=QIC53222.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIC53222.1
+MT093631.2	Genbank	gene	21550	25371	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	21550	25371	.	+	0	ID=cds-QIC53213.1;Parent=gene-S;Dbxref=NCBI_GP:QIC53213.1;Name=QIC53213.1;gbkey=CDS;gene=S;product=spike glycoprotein;protein_id=QIC53213.1
+MT093631.2	Genbank	gene	25380	26207	.	+	.	ID=gene-NS3;Name=NS3;gbkey=Gene;gene=NS3;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	25380	26207	.	+	0	ID=cds-QIC53214.1;Parent=gene-NS3;Dbxref=NCBI_GP:QIC53214.1;Name=QIC53214.1;gbkey=CDS;gene=NS3;product=nonstructural protein NS3;protein_id=QIC53214.1
+MT093631.2	Genbank	gene	26232	26459	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	26232	26459	.	+	0	ID=cds-QIC53215.1;Parent=gene-E;Dbxref=NCBI_GP:QIC53215.1;Name=QIC53215.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIC53215.1
+MT093631.2	Genbank	gene	26510	27178	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	26510	27178	.	+	0	ID=cds-QIC53216.1;Parent=gene-M;Dbxref=NCBI_GP:QIC53216.1;Name=QIC53216.1;gbkey=CDS;gene=M;product=membrane protein;protein_id=QIC53216.1
+MT093631.2	Genbank	gene	27189	27374	.	+	.	ID=gene-NS6;Name=NS6;gbkey=Gene;gene=NS6;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	27189	27374	.	+	0	ID=cds-QIC53217.1;Parent=gene-NS6;Dbxref=NCBI_GP:QIC53217.1;Name=QIC53217.1;gbkey=CDS;gene=NS6;product=nonstructural protein NS6;protein_id=QIC53217.1
+MT093631.2	Genbank	gene	27381	27746	.	+	.	ID=gene-NS7a;Name=NS7a;gbkey=Gene;gene=NS7a;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	27381	27746	.	+	0	ID=cds-QIC53218.1;Parent=gene-NS7a;Dbxref=NCBI_GP:QIC53218.1;Name=QIC53218.1;gbkey=CDS;gene=NS7a;product=nonstructural protein NS7a;protein_id=QIC53218.1
+MT093631.2	Genbank	gene	27743	27874	.	+	.	ID=gene-NS7b;Name=NS7b;gbkey=Gene;gene=NS7b;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	27743	27874	.	+	0	ID=cds-QIC53219.1;Parent=gene-NS7b;Dbxref=NCBI_GP:QIC53219.1;Name=QIC53219.1;gbkey=CDS;gene=NS7b;product=nonstructural protein NS7b;protein_id=QIC53219.1
+MT093631.2	Genbank	gene	27881	28246	.	+	.	ID=gene-NS8;Name=NS8;gbkey=Gene;gene=NS8;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	27881	28246	.	+	0	ID=cds-QIC53220.1;Parent=gene-NS8;Dbxref=NCBI_GP:QIC53220.1;Name=QIC53220.1;gbkey=CDS;gene=NS8;product=nonstructural protein NS8;protein_id=QIC53220.1
+MT093631.2	Genbank	gene	28261	29520	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT093631.2	Genbank	CDS	28261	29520	.	+	0	ID=cds-QIC53221.1;Parent=gene-N;Dbxref=NCBI_GP:QIC53221.1;Name=QIC53221.1;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QIC53221.1
+

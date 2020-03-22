@@ -1,0 +1,4 @@
+##sequence-region LR757995.1 1 29872
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+LR757995.1	EMBL	region	1	29872	.	+	.	ID=LR757995.1:1..29872;Dbxref=taxon:2697049;Name=whole_genome;chromosome=whole_genome;collection-date=2019-12-26;country=China:Wuhan;gb-acronym=SARS-CoV-2;gbkey=Src;mol_type=genomic RNA;nat-host=Homo sapiens
+

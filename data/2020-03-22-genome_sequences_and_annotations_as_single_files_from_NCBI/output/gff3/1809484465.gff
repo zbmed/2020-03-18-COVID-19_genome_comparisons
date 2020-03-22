@@ -1,0 +1,25 @@
+##sequence-region MT050493.1 1 29851
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT050493.1	Genbank	region	1	29851	.	+	.	ID=MT050493.1:1..29851;Dbxref=taxon:2697049;collection-date=31-Jan-2020;country=India: Kerala State;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/166/human/2020/IND;isolation-source=throat swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT050493.1	Genbank	gene	246	21535	.	+	.	ID=gene-orf1a;Name=orf1a;gbkey=Gene;gene=orf1a;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	246	13448	.	+	0	ID=cds-QIA98582.1;Parent=gene-orf1a;Dbxref=NCBI_GP:QIA98582.1;Name=QIA98582.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1a;product=orf1ab polyprotein;protein_id=QIA98582.1
+MT050493.1	Genbank	CDS	13448	21535	.	+	0	ID=cds-QIA98582.1;Parent=gene-orf1a;Dbxref=NCBI_GP:QIA98582.1;Name=QIA98582.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1a;product=orf1ab polyprotein;protein_id=QIA98582.1
+MT050493.1	Genbank	gene	21543	25364	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	21543	25364	.	+	0	ID=cds-QIA98583.1;Parent=gene-S;Dbxref=NCBI_GP:QIA98583.1;Name=QIA98583.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIA98583.1
+MT050493.1	Genbank	gene	25373	26200	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	25373	26200	.	+	0	ID=cds-QIA98584.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QIA98584.1;Name=QIA98584.1;gbkey=CDS;gene=orf3a;product=orf3a protein;protein_id=QIA98584.1
+MT050493.1	Genbank	gene	26225	26452	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	26225	26452	.	+	0	ID=cds-QIA98585.1;Parent=gene-E;Dbxref=NCBI_GP:QIA98585.1;Name=QIA98585.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIA98585.1
+MT050493.1	Genbank	gene	26503	27171	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	26503	27171	.	+	0	ID=cds-QIA98586.1;Parent=gene-M;Dbxref=NCBI_GP:QIA98586.1;Name=QIA98586.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIA98586.1
+MT050493.1	Genbank	gene	27182	27367	.	+	.	ID=gene-orf6;Name=orf6;gbkey=Gene;gene=orf6;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	27182	27367	.	+	0	ID=cds-QIA98587.1;Parent=gene-orf6;Dbxref=NCBI_GP:QIA98587.1;Name=QIA98587.1;gbkey=CDS;gene=orf6;product=orf6 protein;protein_id=QIA98587.1
+MT050493.1	Genbank	gene	27374	27739	.	+	.	ID=gene-orf7a;Name=orf7a;gbkey=Gene;gene=orf7a;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	27374	27739	.	+	0	ID=cds-QIA98588.1;Parent=gene-orf7a;Dbxref=NCBI_GP:QIA98588.1;Name=QIA98588.1;gbkey=CDS;gene=orf7a;product=orf7a protein;protein_id=QIA98588.1
+MT050493.1	Genbank	gene	27874	28239	.	+	.	ID=gene-orf8;Name=orf8;gbkey=Gene;gene=orf8;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	27874	28239	.	+	0	ID=cds-QIA98589.1;Parent=gene-orf8;Dbxref=NCBI_GP:QIA98589.1;Name=QIA98589.1;gbkey=CDS;gene=orf8;product=orf8 protein;protein_id=QIA98589.1
+MT050493.1	Genbank	gene	28254	29513	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	28254	29513	.	+	0	ID=cds-QIA98590.1;Parent=gene-N;Dbxref=NCBI_GP:QIA98590.1;Name=QIA98590.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIA98590.1
+MT050493.1	Genbank	gene	29538	29654	.	+	.	ID=gene-orf10;Name=orf10;gbkey=Gene;gene=orf10;gene_biotype=protein_coding
+MT050493.1	Genbank	CDS	29538	29654	.	+	0	ID=cds-QIA98591.1;Parent=gene-orf10;Dbxref=NCBI_GP:QIA98591.1;Name=QIA98591.1;gbkey=CDS;gene=orf10;product=orf10 protein;protein_id=QIA98591.1
+

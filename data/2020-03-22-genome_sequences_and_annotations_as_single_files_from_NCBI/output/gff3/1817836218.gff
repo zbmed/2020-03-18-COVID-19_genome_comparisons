@@ -1,0 +1,5 @@
+##sequence-region MT127113.1 1 615
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694009
+MT127113.1	Genbank	region	1	615	.	+	.	ID=MT127113.1:1..615;Dbxref=taxon:694009;collection-date=10-Feb-2020;country=Viet Nam;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NIHE/human/2020/VIE;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Severe acute respiratory syndrome coronavirus
+MT127113.1	Genbank	CDS	1	615	.	+	1	ID=cds-QIG55984.1;Dbxref=NCBI_GP:QIG55984.1;Name=QIG55984.1;end_range=615,.;gbkey=CDS;partial=true;product=ORF1ab polyprotein;protein_id=QIG55984.1;start_range=.,1
+

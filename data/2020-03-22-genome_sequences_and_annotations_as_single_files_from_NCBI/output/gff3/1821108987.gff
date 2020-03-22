@@ -1,0 +1,27 @@
+##sequence-region MT192759.1 1 29862
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT192759.1	Genbank	region	1	29862	.	+	.	ID=MT192759.1:1..29862;Dbxref=taxon:2697049;collection-date=25-Jan-2020;country=Taiwan;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/CGMH-CGU-01/human2020/TWN;isolation-source=sputum;mol_type=genomic RNA;nat-host=Homo sapiens
+MT192759.1	Genbank	five_prime_UTR	1	238	.	+	.	ID=id-MT192759.1:1..238;gbkey=5'UTR
+MT192759.1	Genbank	gene	238	21528	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	239	13441	.	+	0	ID=cds-QIK50416.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIK50416.1;Name=QIK50416.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIK50416.1
+MT192759.1	Genbank	CDS	13441	21528	.	+	0	ID=cds-QIK50416.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIK50416.1;Name=QIK50416.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIK50416.1
+MT192759.1	Genbank	gene	21536	25357	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	21536	25357	.	+	0	ID=cds-QIK50417.1;Parent=gene-S;Dbxref=NCBI_GP:QIK50417.1;Name=QIK50417.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIK50417.1
+MT192759.1	Genbank	gene	25366	26193	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	25366	26193	.	+	0	ID=cds-QIK50418.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QIK50418.1;Name=QIK50418.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QIK50418.1
+MT192759.1	Genbank	gene	26218	26445	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	26218	26445	.	+	0	ID=cds-QIK50419.1;Parent=gene-E;Dbxref=NCBI_GP:QIK50419.1;Name=QIK50419.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIK50419.1
+MT192759.1	Genbank	gene	26496	27164	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	26496	27164	.	+	0	ID=cds-QIK50420.1;Parent=gene-M;Dbxref=NCBI_GP:QIK50420.1;Name=QIK50420.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIK50420.1
+MT192759.1	Genbank	gene	27175	27360	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	27175	27360	.	+	0	ID=cds-QIK50421.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIK50421.1;Name=QIK50421.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIK50421.1
+MT192759.1	Genbank	gene	27367	27732	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	27367	27732	.	+	0	ID=cds-QIK50422.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIK50422.1;Name=QIK50422.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QIK50422.1
+MT192759.1	Genbank	gene	27867	28232	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	27867	28232	.	+	0	ID=cds-QIK50423.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIK50423.1;Name=QIK50423.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QIK50423.1
+MT192759.1	Genbank	gene	28247	29506	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	28247	29506	.	+	0	ID=cds-QIK50424.1;Parent=gene-N;Dbxref=NCBI_GP:QIK50424.1;Name=QIK50424.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIK50424.1
+MT192759.1	Genbank	gene	29531	29647	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT192759.1	Genbank	CDS	29531	29647	.	+	0	ID=cds-QIK50425.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QIK50425.1;Name=QIK50425.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QIK50425.1
+MT192759.1	Genbank	three_prime_UTR	29648	29862	.	+	.	ID=id-MT192759.1:29648..29862;gbkey=3'UTR
+

@@ -1,0 +1,27 @@
+##sequence-region MT019533.1 1 29883
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT019533.1	Genbank	region	1	29883	.	+	.	ID=MT019533.1:1..29883;Dbxref=taxon:2697049;collected-by=Institute of Pathogen Biology%2C Chinese Academy of Medical Sciences %26 Peking Union Medical College;collection-date=01-Jan-2020;country=China: Hubei%2C Wuhan;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=BetaCoV/Wuhan/IPBCAMS-WH-05/2020;isolation-source=bronchoalveolar lavage fluid;lat-lon=30.59 N 114.3 E;mol_type=genomic RNA;nat-host=Homo sapiens%3B male%3B age 61;note=host_disease: nCov Pneumonia;old-name=Wuhan seafood market pneumonia virus
+MT019533.1	Genbank	five_prime_UTR	1	265	.	+	.	ID=id-MT019533.1:1..265;gbkey=5'UTR
+MT019533.1	Genbank	gene	266	21555	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	266	13468	.	+	0	ID=cds-QHU36863.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHU36863.1;Name=QHU36863.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHU36863.1
+MT019533.1	Genbank	CDS	13468	21555	.	+	0	ID=cds-QHU36863.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHU36863.1;Name=QHU36863.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHU36863.1
+MT019533.1	Genbank	gene	21563	25384	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	21563	25384	.	+	0	ID=cds-QHU36864.1;Parent=gene-S;Dbxref=NCBI_GP:QHU36864.1;Name=QHU36864.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHU36864.1
+MT019533.1	Genbank	gene	25393	26220	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	25393	26220	.	+	0	ID=cds-QHU36865.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QHU36865.1;Name=QHU36865.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QHU36865.1
+MT019533.1	Genbank	gene	26245	26472	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	26245	26472	.	+	0	ID=cds-QHU36866.1;Parent=gene-E;Dbxref=NCBI_GP:QHU36866.1;Name=QHU36866.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHU36866.1
+MT019533.1	Genbank	gene	26523	27191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	26523	27191	.	+	0	ID=cds-QHU36867.1;Parent=gene-M;Dbxref=NCBI_GP:QHU36867.1;Name=QHU36867.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QHU36867.1
+MT019533.1	Genbank	gene	27202	27387	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	27202	27387	.	+	0	ID=cds-QHU36868.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QHU36868.1;Name=QHU36868.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QHU36868.1
+MT019533.1	Genbank	gene	27394	27759	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	27394	27759	.	+	0	ID=cds-QHU36869.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QHU36869.1;Name=QHU36869.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QHU36869.1
+MT019533.1	Genbank	gene	27894	28259	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	27894	28259	.	+	0	ID=cds-QHU36870.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QHU36870.1;Name=QHU36870.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QHU36870.1
+MT019533.1	Genbank	gene	28274	29533	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	28274	29533	.	+	0	ID=cds-QHU36871.1;Parent=gene-N;Dbxref=NCBI_GP:QHU36871.1;Name=QHU36871.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QHU36871.1
+MT019533.1	Genbank	gene	29558	29674	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT019533.1	Genbank	CDS	29558	29674	.	+	0	ID=cds-QHU36872.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QHU36872.1;Name=QHU36872.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QHU36872.1
+MT019533.1	Genbank	three_prime_UTR	29675	29883	.	+	.	ID=id-MT019533.1:29675..29883;gbkey=3'UTR
+

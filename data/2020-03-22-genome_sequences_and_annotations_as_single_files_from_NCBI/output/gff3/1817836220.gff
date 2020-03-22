@@ -1,0 +1,8 @@
+##sequence-region MT127114.1 1 1411
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694009
+MT127114.1	Genbank	region	1	1411	.	+	.	ID=MT127114.1:1..1411;Dbxref=taxon:694009;collection-date=10-Feb-2020;country=Viet Nam;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NIHE/human/2020/VIE;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Severe acute respiratory syndrome coronavirus
+MT127114.1	Genbank	gene	1	128	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT127114.1	Genbank	CDS	1	128	.	+	2	ID=cds-QIG55985.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIG55985.1;Name=QIG55985.1;gbkey=CDS;gene=ORF8;partial=true;product=ORF8 protein;protein_id=QIG55985.1;start_range=.,1
+MT127114.1	Genbank	gene	143	1402	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT127114.1	Genbank	CDS	143	1402	.	+	0	ID=cds-QIG55986.1;Parent=gene-N;Dbxref=NCBI_GP:QIG55986.1;Name=QIG55986.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIG55986.1
+

@@ -1,0 +1,5 @@
+##sequence-region MT163737.1 1 322
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT163737.1	Genbank	region	1	322	.	+	.	ID=MT163737.1:1..322;Dbxref=taxon:2697049;collected-by=Dr. Mohammad Hadi Karbalaie Niya;collection-date=29-Feb-2020;country=Iran;gb-acronym=SARS-CoV-2;gbkey=Src;isolate=SARS-CoV-2/MHKN-2/human/2020/IRN;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens
+MT163737.1	Genbank	CDS	1	322	.	+	1	ID=cds-QII87777.1;Dbxref=NCBI_GP:QII87777.1;Name=QII87777.1;end_range=322,.;gbkey=CDS;partial=true;product=ORF1ab polyprotein;protein_id=QII87777.1;start_range=.,1
+

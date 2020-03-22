@@ -1,0 +1,26 @@
+##sequence-region NM_021804.3 1 3596
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606
+NM_021804.3	RefSeq	region	1	3596	.	+	.	ID=NM_021804.3:1..3596;Dbxref=taxon:9606;Name=X;chromosome=X;gbkey=Src;genome=genomic;map=Xp22.2;mol_type=mRNA
+NM_021804.3	RefSeq	gene	1	3596	.	+	.	ID=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;Name=ACE2;description=angiotensin I converting enzyme 2;gbkey=Gene;gene=ACE2;gene_synonym=ACEH
+NM_021804.3	RefSeq	CDS	307	2724	.	+	0	ID=cds-NP_068576.1;Parent=gene-ACE2;Dbxref=CCDS:CCDS14169.1,Genbank:NP_068576.1,GeneID:59272,HGNC:HGNC:13557,MIM:300335;Name=NP_068576.1;gbkey=CDS;gene=ACE2;product=angiotensin-converting enzyme 2 precursor;protein_id=NP_068576.1
+NM_021804.3	RefSeq	exon	1	203	.	+	.	ID=id-ACE2;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	204	492	.	+	.	ID=id-ACE2-2;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	493	651	.	+	.	ID=id-ACE2-3;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	652	745	.	+	.	ID=id-ACE2-4;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	746	889	.	+	.	ID=id-ACE2-5;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	890	1002	.	+	.	ID=id-ACE2-6;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1003	1108	.	+	.	ID=id-ACE2-7;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1109	1206	.	+	.	ID=id-ACE2-8;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1207	1376	.	+	.	ID=id-ACE2-9;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1377	1603	.	+	.	ID=id-ACE2-10;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1604	1748	.	+	.	ID=id-ACE2-11;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1749	1847	.	+	.	ID=id-ACE2-12;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1848	1970	.	+	.	ID=id-ACE2-13;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	1971	2143	.	+	.	ID=id-ACE2-14;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	2144	2202	.	+	.	ID=id-ACE2-15;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	2203	2303	.	+	.	ID=id-ACE2-16;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	2304	2420	.	+	.	ID=id-ACE2-17;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	2421	2615	.	+	.	ID=id-ACE2-18;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	exon	2616	3596	.	+	.	ID=id-ACE2-19;Parent=gene-ACE2;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;gbkey=exon;gene=ACE2;inference=alignment:Splign:2.1.0
+NM_021804.3	RefSeq	sequence_feature	262	264	.	+	.	ID=id-ACE2-20;Dbxref=GeneID:59272,HGNC:HGNC:13557,MIM:300335;Note=upstream in-frame stop codon;gbkey=misc_feature;gene=ACE2
+

@@ -1,0 +1,6 @@
+##sequence-region MT081061.1 1 1260
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT081061.1	Genbank	region	1	1260	.	+	.	ID=MT081061.1:1..1260;Dbxref=taxon:2697049;collection-date=23-Jan-2020;country=China: HuaShang;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/HS_18/human/2020/CHN;mol_type=genomic RNA;nat-host=Homo sapiens
+MT081061.1	Genbank	gene	1	1260	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT081061.1	Genbank	CDS	1	1260	.	+	0	ID=cds-QIC50509.1;Parent=gene-N;Dbxref=NCBI_GP:QIC50509.1;Name=QIC50509.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIC50509.1
+

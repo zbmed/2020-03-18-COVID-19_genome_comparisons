@@ -1,0 +1,6 @@
+##sequence-region MT008023.1 1 322
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT008023.1	Genbank	region	1	322	.	+	.	ID=MT008023.1:1..322;Dbxref=taxon:2697049;collection-date=Jan-2020;country=Italy: Rome;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019 nCoV/Italy-INMI2;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens;note=ex China;old-name=Wuhan seafood market pneumonia virus
+MT008023.1	Genbank	gene	1	322	.	+	.	ID=gene-M;Name=M;end_range=322,.;gbkey=Gene;gene=M;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT008023.1	Genbank	CDS	1	322	.	+	1	ID=cds-QHR93622.1;Parent=gene-M;Dbxref=NCBI_GP:QHR93622.1;Name=QHR93622.1;end_range=322,.;gbkey=CDS;gene=M;partial=true;product=membrane glycoprotein;protein_id=QHR93622.1;start_range=.,1
+

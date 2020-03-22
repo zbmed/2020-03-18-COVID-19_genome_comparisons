@@ -1,0 +1,27 @@
+##sequence-region MT152824.1 1 29878
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT152824.1	Genbank	region	1	29878	.	+	.	ID=MT152824.1:1..29878;Dbxref=taxon:2697049;collection-date=24-Feb-2020;country=USA: Snohomish County%2C WA;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/WA2/human/2020/USA;isolation-source=mid-nasal swab;mol_type=genomic RNA;nat-host=Homo sapiens
+MT152824.1	Genbank	five_prime_UTR	1	263	.	+	.	ID=id-MT152824.1:1..263;gbkey=5'UTR
+MT152824.1	Genbank	gene	264	21553	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	264	13466	.	+	0	ID=cds-QIH55220.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIH55220.1;Name=QIH55220.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIH55220.1
+MT152824.1	Genbank	CDS	13466	21553	.	+	0	ID=cds-QIH55220.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIH55220.1;Name=QIH55220.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIH55220.1
+MT152824.1	Genbank	gene	21561	25382	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	21561	25382	.	+	0	ID=cds-QIH55221.1;Parent=gene-S;Dbxref=NCBI_GP:QIH55221.1;Name=QIH55221.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIH55221.1
+MT152824.1	Genbank	gene	25391	26218	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	25391	26218	.	+	0	ID=cds-QIH55222.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QIH55222.1;Name=QIH55222.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QIH55222.1
+MT152824.1	Genbank	gene	26243	26470	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	26243	26470	.	+	0	ID=cds-QIH55223.1;Parent=gene-E;Dbxref=NCBI_GP:QIH55223.1;Name=QIH55223.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIH55223.1
+MT152824.1	Genbank	gene	26521	27189	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	26521	27189	.	+	0	ID=cds-QIH55224.1;Parent=gene-M;Dbxref=NCBI_GP:QIH55224.1;Name=QIH55224.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIH55224.1
+MT152824.1	Genbank	gene	27200	27385	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	27200	27385	.	+	0	ID=cds-QIH55225.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIH55225.1;Name=QIH55225.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIH55225.1
+MT152824.1	Genbank	gene	27392	27757	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	27392	27757	.	+	0	ID=cds-QIH55226.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIH55226.1;Name=QIH55226.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QIH55226.1
+MT152824.1	Genbank	gene	27892	28257	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	27892	28257	.	+	0	ID=cds-QIH55227.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIH55227.1;Name=QIH55227.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QIH55227.1
+MT152824.1	Genbank	gene	28272	29531	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	28272	29531	.	+	0	ID=cds-QIH55228.1;Parent=gene-N;Dbxref=NCBI_GP:QIH55228.1;Name=QIH55228.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIH55228.1
+MT152824.1	Genbank	gene	29556	29672	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT152824.1	Genbank	CDS	29556	29672	.	+	0	ID=cds-QIH55229.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QIH55229.1;Name=QIH55229.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QIH55229.1
+MT152824.1	Genbank	three_prime_UTR	29673	29878	.	+	.	ID=id-MT152824.1:29673..29878;gbkey=3'UTR
+

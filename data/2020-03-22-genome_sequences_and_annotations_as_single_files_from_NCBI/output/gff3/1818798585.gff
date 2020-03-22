@@ -1,0 +1,6 @@
+##sequence-region MT152900.1 1 322
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT152900.1	Genbank	region	1	322	.	+	.	ID=MT152900.1:1..322;Dbxref=taxon:2697049;collected-by=Dr. Mohammad Hadi Karbalaie Niya;collection-date=26-Feb-2020;country=Iran;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;identified-by=Dr. Azadeh Laali;isolate=SARS-CoV-2/MHKN-1/human/2020/IRN;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens
+MT152900.1	Genbank	gene	1	322	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=322,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT152900.1	Genbank	CDS	1	322	.	+	1	ID=cds-QIH55230.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIH55230.1;Name=QIH55230.1;end_range=322,.;gbkey=CDS;gene=orf1ab;partial=true;product=ORF1ab polyprotein;protein_id=QIH55230.1;start_range=.,1
+

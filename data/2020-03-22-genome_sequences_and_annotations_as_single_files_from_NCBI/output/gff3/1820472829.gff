@@ -1,0 +1,25 @@
+##sequence-region MT184912.1 1 29882
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT184912.1	Genbank	region	1	29882	.	+	.	ID=MT184912.1:1..29882;Dbxref=taxon:2697049;collection-date=17-Feb-2020;country=USA;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019-nCoV/USA-CruiseA-25/2020;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens;note=5' sequence is sequencing primer
+MT184912.1	Genbank	gene	266	21555	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	266	13468	.	+	0	ID=cds-QIJ96512.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIJ96512.1;Name=QIJ96512.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIJ96512.1
+MT184912.1	Genbank	CDS	13468	21555	.	+	0	ID=cds-QIJ96512.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIJ96512.1;Name=QIJ96512.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIJ96512.1
+MT184912.1	Genbank	gene	21563	25384	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	21563	25384	.	+	0	ID=cds-QIJ96513.1;Parent=gene-S;Dbxref=NCBI_GP:QIJ96513.1;Name=QIJ96513.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIJ96513.1
+MT184912.1	Genbank	gene	25393	26220	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	25393	26220	.	+	0	ID=cds-QIJ96514.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QIJ96514.1;Name=QIJ96514.1;gbkey=CDS;gene=orf3a;product=orf3a protein;protein_id=QIJ96514.1
+MT184912.1	Genbank	gene	26245	26472	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	26245	26472	.	+	0	ID=cds-QIJ96515.1;Parent=gene-E;Dbxref=NCBI_GP:QIJ96515.1;Name=QIJ96515.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIJ96515.1
+MT184912.1	Genbank	gene	26523	27191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	26523	27191	.	+	0	ID=cds-QIJ96516.1;Parent=gene-M;Dbxref=NCBI_GP:QIJ96516.1;Name=QIJ96516.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIJ96516.1
+MT184912.1	Genbank	gene	27202	27387	.	+	.	ID=gene-orf6;Name=orf6;gbkey=Gene;gene=orf6;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	27202	27387	.	+	0	ID=cds-QIJ96517.1;Parent=gene-orf6;Dbxref=NCBI_GP:QIJ96517.1;Name=QIJ96517.1;gbkey=CDS;gene=orf6;product=orf6 protein;protein_id=QIJ96517.1
+MT184912.1	Genbank	gene	27394	27759	.	+	.	ID=gene-orf7a;Name=orf7a;gbkey=Gene;gene=orf7a;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	27394	27759	.	+	0	ID=cds-QIJ96518.1;Parent=gene-orf7a;Dbxref=NCBI_GP:QIJ96518.1;Name=QIJ96518.1;gbkey=CDS;gene=orf7a;product=orf7a protein;protein_id=QIJ96518.1
+MT184912.1	Genbank	gene	27894	28259	.	+	.	ID=gene-orf8;Name=orf8;gbkey=Gene;gene=orf8;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	27894	28259	.	+	0	ID=cds-QIJ96519.1;Parent=gene-orf8;Dbxref=NCBI_GP:QIJ96519.1;Name=QIJ96519.1;gbkey=CDS;gene=orf8;product=orf8 protein;protein_id=QIJ96519.1
+MT184912.1	Genbank	gene	28274	29533	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	28274	29533	.	+	0	ID=cds-QIJ96520.1;Parent=gene-N;Dbxref=NCBI_GP:QIJ96520.1;Name=QIJ96520.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIJ96520.1
+MT184912.1	Genbank	gene	29558	29674	.	+	.	ID=gene-orf10;Name=orf10;gbkey=Gene;gene=orf10;gene_biotype=protein_coding
+MT184912.1	Genbank	CDS	29558	29674	.	+	0	ID=cds-QIJ96521.1;Parent=gene-orf10;Dbxref=NCBI_GP:QIJ96521.1;Name=QIJ96521.1;gbkey=CDS;gene=orf10;product=orf10 protein;protein_id=QIJ96521.1
+

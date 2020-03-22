@@ -1,0 +1,27 @@
+##sequence-region LC528233.1 1 29902
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+LC528233.1	DDBJ	region	1	29902	.	+	.	ID=LC528233.1:1..29902;Dbxref=taxon:2697049;collection-date=2020-02-10;gb-acronym=SARS-CoV-2;gbkey=Src;isolation-source=throat swab;mol_type=genomic RNA;nat-host=Homo sapiens;strain=SARS-CoV-2/Hu/DP/Kng/19-027
+LC528233.1	DDBJ	five_prime_UTR	1	273	.	+	.	ID=id-LC528233.1:1..273;gbkey=5'UTR
+LC528233.1	DDBJ	gene	274	21563	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	274	13476	.	+	0	ID=cds-BCA87370.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:BCA87370.1;Name=BCA87370.1;Note=pp1ab%3B translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=BCA87370.1
+LC528233.1	DDBJ	CDS	13476	21563	.	+	0	ID=cds-BCA87370.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:BCA87370.1;Name=BCA87370.1;Note=pp1ab%3B translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=BCA87370.1
+LC528233.1	DDBJ	gene	21571	25392	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	21571	25392	.	+	0	ID=cds-BCA87371.1;Parent=gene-S;Dbxref=NCBI_GP:BCA87371.1;Name=BCA87371.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=BCA87371.1
+LC528233.1	DDBJ	gene	25401	26228	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	25401	26228	.	+	0	ID=cds-BCA87372.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:BCA87372.1;Name=BCA87372.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=BCA87372.1
+LC528233.1	DDBJ	gene	26253	26480	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	26253	26480	.	+	0	ID=cds-BCA87373.1;Parent=gene-E;Dbxref=NCBI_GP:BCA87373.1;Name=BCA87373.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=BCA87373.1
+LC528233.1	DDBJ	gene	26531	27199	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	26531	27199	.	+	0	ID=cds-BCA87374.1;Parent=gene-M;Dbxref=NCBI_GP:BCA87374.1;Name=BCA87374.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=BCA87374.1
+LC528233.1	DDBJ	gene	27210	27395	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	27210	27395	.	+	0	ID=cds-BCA87375.1;Parent=gene-ORF6;Dbxref=NCBI_GP:BCA87375.1;Name=BCA87375.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=BCA87375.1
+LC528233.1	DDBJ	gene	27402	27767	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	27402	27767	.	+	0	ID=cds-BCA87376.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:BCA87376.1;Name=BCA87376.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=BCA87376.1
+LC528233.1	DDBJ	gene	27902	28267	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	27902	28267	.	+	0	ID=cds-BCA87377.1;Parent=gene-ORF8;Dbxref=NCBI_GP:BCA87377.1;Name=BCA87377.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=BCA87377.1
+LC528233.1	DDBJ	gene	28282	29541	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	28282	29541	.	+	0	ID=cds-BCA87378.1;Parent=gene-N;Dbxref=NCBI_GP:BCA87378.1;Name=BCA87378.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=BCA87378.1
+LC528233.1	DDBJ	gene	29566	29682	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+LC528233.1	DDBJ	CDS	29566	29682	.	+	0	ID=cds-BCA87379.1;Parent=gene-ORF10;Dbxref=NCBI_GP:BCA87379.1;Name=BCA87379.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=BCA87379.1
+LC528233.1	DDBJ	three_prime_UTR	29683	29902	.	+	.	ID=id-LC528233.1:29683..29902;gbkey=3'UTR
+

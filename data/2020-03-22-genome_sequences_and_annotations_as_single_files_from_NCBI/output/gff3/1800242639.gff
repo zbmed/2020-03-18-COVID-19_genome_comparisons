@@ -1,0 +1,25 @@
+##sequence-region MN938384.1 1 29838
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MN938384.1	Genbank	region	1	29838	.	+	.	ID=MN938384.1:1..29838;Dbxref=taxon:2697049;collection-date=10-Jan-2020;country=China: Shenzhen;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019-nCoV_HKU-SZ-002a_2020;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MN938384.1	Genbank	five_prime_UTR	1	233	.	+	.	ID=id-MN938384.1:1..233;gbkey=5'UTR
+MN938384.1	Genbank	gene	234	21523	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	234	13436	.	+	0	ID=cds-QHN73794.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHN73794.1;Name=QHN73794.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab polyprotein;protein_id=QHN73794.1
+MN938384.1	Genbank	CDS	13436	21523	.	+	0	ID=cds-QHN73794.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHN73794.1;Name=QHN73794.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=ORF1ab polyprotein;protein_id=QHN73794.1
+MN938384.1	Genbank	gene	21531	25352	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	21531	25352	.	+	0	ID=cds-QHN73795.1;Parent=gene-S;Dbxref=NCBI_GP:QHN73795.1;Name=QHN73795.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHN73795.1
+MN938384.1	Genbank	gene	25361	26188	.	+	.	ID=gene-ORF3;Name=ORF3;gbkey=Gene;gene=ORF3;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	25361	26188	.	+	0	ID=cds-QHN73796.1;Parent=gene-ORF3;Dbxref=NCBI_GP:QHN73796.1;Name=QHN73796.1;gbkey=CDS;gene=ORF3;product=ORF3 protein;protein_id=QHN73796.1
+MN938384.1	Genbank	gene	26213	26440	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	26213	26440	.	+	0	ID=cds-QHN73797.1;Parent=gene-E;Dbxref=NCBI_GP:QHN73797.1;Name=QHN73797.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHN73797.1
+MN938384.1	Genbank	gene	26491	27159	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	26491	27159	.	+	0	ID=cds-QHN73798.1;Parent=gene-M;Dbxref=NCBI_GP:QHN73798.1;Name=QHN73798.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QHN73798.1
+MN938384.1	Genbank	gene	27170	27355	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	27170	27355	.	+	0	ID=cds-QHN73799.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QHN73799.1;Name=QHN73799.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QHN73799.1
+MN938384.1	Genbank	gene	27362	27727	.	+	.	ID=gene-ORF7;Name=ORF7;gbkey=Gene;gene=ORF7;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	27362	27727	.	+	0	ID=cds-QHN73800.1;Parent=gene-ORF7;Dbxref=NCBI_GP:QHN73800.1;Name=QHN73800.1;gbkey=CDS;gene=ORF7;product=ORF7 protein;protein_id=QHN73800.1
+MN938384.1	Genbank	gene	27862	28227	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	27862	28227	.	+	0	ID=cds-QHN73801.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QHN73801.1;Name=QHN73801.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QHN73801.1
+MN938384.1	Genbank	gene	28242	29501	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN938384.1	Genbank	CDS	28242	29501	.	+	0	ID=cds-QHN73802.1;Parent=gene-N;Dbxref=NCBI_GP:QHN73802.1;Name=QHN73802.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QHN73802.1
+MN938384.1	Genbank	three_prime_UTR	29502	29827	.	+	.	ID=id-MN938384.1:29502..29827;gbkey=3'UTR
+

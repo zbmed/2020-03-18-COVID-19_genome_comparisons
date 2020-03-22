@@ -1,0 +1,6 @@
+##sequence-region MT159778.1 1 483
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT159778.1	Genbank	region	1	483	.	+	.	ID=MT159778.1:1..483;Dbxref=taxon:2697049;collection-date=27-Feb-2020;country=Nigeria: Lagos;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NG01/human/2020/NGA;isolation-source=sputum;mol_type=genomic RNA;nat-host=Homo sapiens
+MT159778.1	Genbank	gene	1	483	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=483,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT159778.1	Genbank	CDS	1	483	.	+	0	ID=cds-QII57166.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QII57166.1;Name=QII57166.1;end_range=483,.;gbkey=CDS;gene=orf1ab;partial=true;product=ORF1ab polyprotein;protein_id=QII57166.1;start_range=.,1
+

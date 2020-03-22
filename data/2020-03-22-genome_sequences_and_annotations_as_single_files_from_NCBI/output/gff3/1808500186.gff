@@ -1,0 +1,5 @@
+##sequence-region MT042774.1 1 294
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT042774.1	Genbank	region	1	294	.	+	.	ID=MT042774.1:1..294;Dbxref=taxon:2697049;collection-date=Jan-2020;country=China: Wuhan;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/Tongji-02/human/2020/Wuhan;isolation-source=swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT042774.1	Genbank	CDS	1	294	.	+	0	ID=cds-QHZ87576.1;Dbxref=NCBI_GP:QHZ87576.1;Name=QHZ87576.1;end_range=294,.;gbkey=CDS;partial=true;product=orf1ab polyprotein;protein_id=QHZ87576.1;start_range=.,1
+

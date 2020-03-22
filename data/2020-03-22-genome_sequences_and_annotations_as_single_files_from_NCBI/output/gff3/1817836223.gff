@@ -1,0 +1,14 @@
+##sequence-region MT127115.1 1 1269
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=694009
+MT127115.1	Genbank	region	1	1269	.	+	.	ID=MT127115.1:1..1269;Dbxref=taxon:694009;collection-date=10-Feb-2020;country=Viet Nam;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NIHE/human/2020/VIE;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Severe acute respiratory syndrome coronavirus
+MT127115.1	Genbank	gene	1	8	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT127115.1	Genbank	CDS	1	8	.	+	2	ID=cds-QIG55991.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QIG55991.1;Name=QIG55991.1;gbkey=CDS;gene=orf3a;partial=true;product=ORF3a;protein_id=QIG55991.1;start_range=.,1
+MT127115.1	Genbank	gene	33	260	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT127115.1	Genbank	CDS	33	260	.	+	0	ID=cds-QIG55987.1;Parent=gene-E;Dbxref=NCBI_GP:QIG55987.1;Name=QIG55987.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIG55987.1
+MT127115.1	Genbank	gene	311	979	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT127115.1	Genbank	CDS	311	979	.	+	0	ID=cds-QIG55988.1;Parent=gene-M;Dbxref=NCBI_GP:QIG55988.1;Name=QIG55988.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIG55988.1
+MT127115.1	Genbank	gene	990	1175	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT127115.1	Genbank	CDS	990	1175	.	+	0	ID=cds-QIG55989.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIG55989.1;Name=QIG55989.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIG55989.1
+MT127115.1	Genbank	gene	1182	1269	.	+	.	ID=gene-ORF7a;Name=ORF7a;end_range=1269,.;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding;partial=true
+MT127115.1	Genbank	CDS	1182	1269	.	+	0	ID=cds-QIG55990.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIG55990.1;Name=QIG55990.1;end_range=1269,.;gbkey=CDS;gene=ORF7a;partial=true;product=ORF7a protein;protein_id=QIG55990.1
+

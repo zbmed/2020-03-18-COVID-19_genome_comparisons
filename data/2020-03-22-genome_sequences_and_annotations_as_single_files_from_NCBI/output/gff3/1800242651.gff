@@ -1,0 +1,6 @@
+##sequence-region MN938386.1 1 287
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MN938386.1	Genbank	region	1	287	.	+	.	ID=MN938386.1:1..287;Dbxref=taxon:2697049;collection-date=Jan-2020;country=China: Shenzhen;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019-nCoV_HKU-SZ-004_2020;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MN938386.1	Genbank	gene	1	287	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=287,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MN938386.1	Genbank	CDS	1	287	.	+	2	ID=cds-QHN73804.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHN73804.1;Name=QHN73804.1;end_range=287,.;gbkey=CDS;gene=orf1ab;partial=true;product=ORF1ab polyprotein;protein_id=QHN73804.1;start_range=.,1
+

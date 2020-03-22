@@ -1,0 +1,17 @@
+##sequence-region MN988669.1 1 29881
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MN988669.1	Genbank	region	1	29881	.	+	.	ID=MN988669.1:1..29881;Dbxref=taxon:2697049;collection-date=02-Jan-2020;country=China;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=2019-nCoV WHU02;isolation-source=BALF sample of 2019 Wuhan peumonia patient 02;mol_type=genomic RNA;nat-host=Homo sapiens;note=genome sequence collected on Jan 7%2C 2020;old-name=Wuhan seafood market pneumonia virus
+MN988669.1	Genbank	five_prime_UTR	1	264	.	+	.	ID=id-MN988669.1:1..264;gbkey=5'UTR
+MN988669.1	Genbank	gene	265	21554	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MN988669.1	Genbank	CDS	265	13467	.	+	0	ID=cds-QHO62111.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHO62111.1;Name=QHO62111.1;Note=expression of ORF1b-encoded region of pp1ab predicted to involve ribosomal frameshifting into the -1 frame just upstream of the ORF1a translation termination codon;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHO62111.1
+MN988669.1	Genbank	CDS	13467	21554	.	+	0	ID=cds-QHO62111.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHO62111.1;Name=QHO62111.1;Note=expression of ORF1b-encoded region of pp1ab predicted to involve ribosomal frameshifting into the -1 frame just upstream of the ORF1a translation termination codon;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHO62111.1
+MN988669.1	Genbank	gene	21562	25383	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MN988669.1	Genbank	CDS	21562	25383	.	+	0	ID=cds-QHO62112.1;Parent=gene-S;Dbxref=NCBI_GP:QHO62112.1;Name=QHO62112.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHO62112.1
+MN988669.1	Genbank	gene	26244	26471	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MN988669.1	Genbank	CDS	26244	26471	.	+	0	ID=cds-QHO62113.1;Parent=gene-E;Dbxref=NCBI_GP:QHO62113.1;Name=QHO62113.1;Note=structural protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHO62113.1
+MN988669.1	Genbank	gene	26522	27190	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MN988669.1	Genbank	CDS	26522	27190	.	+	0	ID=cds-QHO62114.1;Parent=gene-M;Dbxref=NCBI_GP:QHO62114.1;Name=QHO62114.1;Note=structural protein;gbkey=CDS;gene=M;product=matrix protein;protein_id=QHO62114.1
+MN988669.1	Genbank	gene	28273	29532	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MN988669.1	Genbank	CDS	28273	29532	.	+	0	ID=cds-QHO62115.1;Parent=gene-N;Dbxref=NCBI_GP:QHO62115.1;Name=QHO62115.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid protein;protein_id=QHO62115.1
+MN988669.1	Genbank	three_prime_UTR	29533	29881	.	+	.	ID=id-MN988669.1:29533..29881;gbkey=3'UTR
+

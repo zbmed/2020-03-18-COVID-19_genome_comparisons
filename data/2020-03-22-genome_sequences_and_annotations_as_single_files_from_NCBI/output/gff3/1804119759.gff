@@ -1,0 +1,25 @@
+##sequence-region MT012098.1 1 29854
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT012098.1	Genbank	region	1	29854	.	+	.	ID=MT012098.1:1..29854;Dbxref=taxon:2697049;collection-date=27-Jan-2020;country=India: Kerala State;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/29/human/2020/IND;isolation-source=throat swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT012098.1	Genbank	gene	253	21542	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	253	13455	.	+	0	ID=cds-QHS34545.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHS34545.1;Name=QHS34545.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHS34545.1
+MT012098.1	Genbank	CDS	13455	21542	.	+	0	ID=cds-QHS34545.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHS34545.1;Name=QHS34545.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHS34545.1
+MT012098.1	Genbank	gene	21550	25368	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	21550	25368	.	+	0	ID=cds-QHS34546.1;Parent=gene-S;Dbxref=NCBI_GP:QHS34546.1;Name=QHS34546.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHS34546.1
+MT012098.1	Genbank	gene	25377	26204	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	25377	26204	.	+	0	ID=cds-QHS34547.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QHS34547.1;Name=QHS34547.1;gbkey=CDS;gene=orf3a;product=orf3a protein;protein_id=QHS34547.1
+MT012098.1	Genbank	gene	26229	26456	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	26229	26456	.	+	0	ID=cds-QHS34548.1;Parent=gene-E;Dbxref=NCBI_GP:QHS34548.1;Name=QHS34548.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QHS34548.1
+MT012098.1	Genbank	gene	26507	27175	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	26507	27175	.	+	0	ID=cds-QHS34549.1;Parent=gene-M;Dbxref=NCBI_GP:QHS34549.1;Name=QHS34549.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QHS34549.1
+MT012098.1	Genbank	gene	27186	27371	.	+	.	ID=gene-orf6;Name=orf6;gbkey=Gene;gene=orf6;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	27186	27371	.	+	0	ID=cds-QHS34550.1;Parent=gene-orf6;Dbxref=NCBI_GP:QHS34550.1;Name=QHS34550.1;gbkey=CDS;gene=orf6;product=orf6 protein;protein_id=QHS34550.1
+MT012098.1	Genbank	gene	27378	27743	.	+	.	ID=gene-orf7a;Name=orf7a;gbkey=Gene;gene=orf7a;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	27378	27743	.	+	0	ID=cds-QHS34551.1;Parent=gene-orf7a;Dbxref=NCBI_GP:QHS34551.1;Name=QHS34551.1;gbkey=CDS;gene=orf7a;product=orf7a protein;protein_id=QHS34551.1
+MT012098.1	Genbank	gene	27878	28243	.	+	.	ID=gene-orf8;Name=orf8;gbkey=Gene;gene=orf8;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	27878	28243	.	+	0	ID=cds-QHS34552.1;Parent=gene-orf8;Dbxref=NCBI_GP:QHS34552.1;Name=QHS34552.1;gbkey=CDS;gene=orf8;product=orf8 protein;protein_id=QHS34552.1
+MT012098.1	Genbank	gene	28258	29517	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	28258	29517	.	+	0	ID=cds-QHS34553.1;Parent=gene-N;Dbxref=NCBI_GP:QHS34553.1;Name=QHS34553.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QHS34553.1
+MT012098.1	Genbank	gene	29542	29658	.	+	.	ID=gene-orf10;Name=orf10;gbkey=Gene;gene=orf10;gene_biotype=protein_coding
+MT012098.1	Genbank	CDS	29542	29658	.	+	0	ID=cds-QHS34554.1;Parent=gene-orf10;Dbxref=NCBI_GP:QHS34554.1;Name=QHS34554.1;gbkey=CDS;gene=orf10;product=orf10 protein;protein_id=QHS34554.1
+

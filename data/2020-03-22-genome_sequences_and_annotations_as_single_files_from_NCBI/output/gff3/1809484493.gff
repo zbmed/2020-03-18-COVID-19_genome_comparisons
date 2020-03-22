@@ -1,0 +1,25 @@
+##sequence-region MT066175.1 1 29870
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT066175.1	Genbank	region	1	29870	.	+	.	ID=MT066175.1:1..29870;Dbxref=taxon:2697049;collection-date=31-Jan-2020;country=Taiwan;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/NTU01/2020/TWN;mol_type=genomic RNA;nat-host=Homo sapiens
+MT066175.1	Genbank	gene	266	21555	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	266	13468	.	+	0	ID=cds-QIA98595.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIA98595.1;Name=QIA98595.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIA98595.1
+MT066175.1	Genbank	CDS	13468	21555	.	+	0	ID=cds-QIA98595.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIA98595.1;Name=QIA98595.1;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIA98595.1
+MT066175.1	Genbank	gene	21563	25384	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	21563	25384	.	+	0	ID=cds-QIA98596.1;Parent=gene-S;Dbxref=NCBI_GP:QIA98596.1;Name=QIA98596.1;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIA98596.1
+MT066175.1	Genbank	gene	25393	26220	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	25393	26220	.	+	0	ID=cds-QIA98597.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QIA98597.1;Name=QIA98597.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QIA98597.1
+MT066175.1	Genbank	gene	26245	26472	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	26245	26472	.	+	0	ID=cds-QIA98598.1;Parent=gene-E;Dbxref=NCBI_GP:QIA98598.1;Name=QIA98598.1;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIA98598.1
+MT066175.1	Genbank	gene	26523	27191	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	26523	27191	.	+	0	ID=cds-QIA98599.1;Parent=gene-M;Dbxref=NCBI_GP:QIA98599.1;Name=QIA98599.1;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIA98599.1
+MT066175.1	Genbank	gene	27202	27387	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	27202	27387	.	+	0	ID=cds-QIA98600.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIA98600.1;Name=QIA98600.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIA98600.1
+MT066175.1	Genbank	gene	27394	27759	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	27394	27759	.	+	0	ID=cds-QIA98604.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIA98604.1;Name=QIA98604.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QIA98604.1
+MT066175.1	Genbank	gene	27894	28259	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	27894	28259	.	+	0	ID=cds-QIA98601.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIA98601.1;Name=QIA98601.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QIA98601.1
+MT066175.1	Genbank	gene	28274	29533	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	28274	29533	.	+	0	ID=cds-QIA98602.1;Parent=gene-N;Dbxref=NCBI_GP:QIA98602.1;Name=QIA98602.1;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIA98602.1
+MT066175.1	Genbank	gene	29558	29674	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT066175.1	Genbank	CDS	29558	29674	.	+	0	ID=cds-QIA98603.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QIA98603.1;Name=QIA98603.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QIA98603.1
+

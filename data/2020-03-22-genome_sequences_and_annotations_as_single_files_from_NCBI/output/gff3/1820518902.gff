@@ -1,0 +1,27 @@
+##sequence-region MT123293.2 1 29871
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT123293.2	Genbank	region	1	29871	.	+	.	ID=MT123293.2:1..29871;Dbxref=taxon:2697049;collection-date=29-Jan-2020;country=China: Guangzhou;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/IQTC03/human/2020/CHN;isolation-source=stool;mol_type=genomic RNA;nat-host=Homo sapiens;note=passage details: Vero E6
+MT123293.2	Genbank	five_prime_UTR	1	259	.	+	.	ID=id-MT123293.2:1..259;gbkey=5'UTR
+MT123293.2	Genbank	gene	260	21549	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	260	13462	.	+	0	ID=cds-QIE07480.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIE07480.1;Name=QIE07480.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIE07480.1
+MT123293.2	Genbank	CDS	13462	21549	.	+	0	ID=cds-QIE07480.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIE07480.1;Name=QIE07480.1;Note=translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QIE07480.1
+MT123293.2	Genbank	gene	21557	25378	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	21557	25378	.	+	0	ID=cds-QIE07481.1;Parent=gene-S;Dbxref=NCBI_GP:QIE07481.1;Name=QIE07481.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QIE07481.1
+MT123293.2	Genbank	gene	25387	26214	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	25387	26214	.	+	0	ID=cds-QIE07482.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QIE07482.1;Name=QIE07482.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QIE07482.1
+MT123293.2	Genbank	gene	26239	26466	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	26239	26466	.	+	0	ID=cds-QIE07483.1;Parent=gene-E;Dbxref=NCBI_GP:QIE07483.1;Name=QIE07483.1;Note=structural protein%3B E protein;gbkey=CDS;gene=E;product=envelope protein;protein_id=QIE07483.1
+MT123293.2	Genbank	gene	26517	27185	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	26517	27185	.	+	0	ID=cds-QIE07484.1;Parent=gene-M;Dbxref=NCBI_GP:QIE07484.1;Name=QIE07484.1;Note=structural protein;gbkey=CDS;gene=M;product=membrane glycoprotein;protein_id=QIE07484.1
+MT123293.2	Genbank	gene	27196	27381	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	27196	27381	.	+	0	ID=cds-QIE07485.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QIE07485.1;Name=QIE07485.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QIE07485.1
+MT123293.2	Genbank	gene	27388	27753	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	27388	27753	.	+	0	ID=cds-QIE07486.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QIE07486.1;Name=QIE07486.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QIE07486.1
+MT123293.2	Genbank	gene	27888	28253	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	27888	28253	.	+	0	ID=cds-QIE07487.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QIE07487.1;Name=QIE07487.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QIE07487.1
+MT123293.2	Genbank	gene	28268	29527	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	28268	29527	.	+	0	ID=cds-QIE07488.1;Parent=gene-N;Dbxref=NCBI_GP:QIE07488.1;Name=QIE07488.1;Note=structural protein;gbkey=CDS;gene=N;product=nucleocapsid phosphoprotein;protein_id=QIE07488.1
+MT123293.2	Genbank	gene	29552	29668	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT123293.2	Genbank	CDS	29552	29668	.	+	0	ID=cds-QIE07489.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QIE07489.1;Name=QIE07489.1;gbkey=CDS;gene=ORF10;product=ORF10 protein;protein_id=QIE07489.1
+MT123293.2	Genbank	three_prime_UTR	29669	29871	.	+	.	ID=id-MT123293.2:29669..29871;gbkey=3'UTR
+

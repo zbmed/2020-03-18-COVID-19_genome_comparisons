@@ -1,0 +1,27 @@
+##sequence-region MT039873.1 1 29833
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT039873.1	Genbank	region	1	29833	.	+	.	ID=MT039873.1:1..29833;Dbxref=taxon:2697049;collection-date=20-Jan-2020;country=China: Hangzhou;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=HZ-1;isolation-source=sputum;mol_type=genomic RNA;nat-host=Homo sapiens%3B male;old-name=Wuhan seafood market pneumonia virus
+MT039873.1	Genbank	five_prime_UTR	1	262	.	+	.	ID=id-MT039873.1:1..262;gbkey=5'UTR
+MT039873.1	Genbank	gene	263	21552	.	+	.	ID=gene-orf1ab;Name=orf1ab;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	263	13465	.	+	0	ID=cds-QHZ00357.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHZ00357.1;Name=QHZ00357.1;Note=pp1ab%3B translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHZ00357.1
+MT039873.1	Genbank	CDS	13465	21552	.	+	0	ID=cds-QHZ00357.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QHZ00357.1;Name=QHZ00357.1;Note=pp1ab%3B translated by -1 ribosomal frameshift;exception=ribosomal slippage;gbkey=CDS;gene=orf1ab;product=orf1ab polyprotein;protein_id=QHZ00357.1
+MT039873.1	Genbank	gene	21560	25381	.	+	.	ID=gene-S;Name=S;gbkey=Gene;gene=S;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	21560	25381	.	+	0	ID=cds-QHZ00358.1;Parent=gene-S;Dbxref=NCBI_GP:QHZ00358.1;Name=QHZ00358.1;Note=structural protein;gbkey=CDS;gene=S;product=surface glycoprotein;protein_id=QHZ00358.1
+MT039873.1	Genbank	gene	25390	26217	.	+	.	ID=gene-ORF3a;Name=ORF3a;gbkey=Gene;gene=ORF3a;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	25390	26217	.	+	0	ID=cds-QHZ00359.1;Parent=gene-ORF3a;Dbxref=NCBI_GP:QHZ00359.1;Name=QHZ00359.1;gbkey=CDS;gene=ORF3a;product=ORF3a protein;protein_id=QHZ00359.1
+MT039873.1	Genbank	gene	26242	26469	.	+	.	ID=gene-E;Name=E;gbkey=Gene;gene=E;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	26242	26469	.	+	0	ID=cds-QHZ00360.1;Parent=gene-E;Dbxref=NCBI_GP:QHZ00360.1;Name=QHZ00360.1;gbkey=CDS;gene=E;product=structural protein;protein_id=QHZ00360.1
+MT039873.1	Genbank	gene	26520	27188	.	+	.	ID=gene-M;Name=M;gbkey=Gene;gene=M;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	26520	27188	.	+	0	ID=cds-QHZ00361.1;Parent=gene-M;Dbxref=NCBI_GP:QHZ00361.1;Name=QHZ00361.1;gbkey=CDS;gene=M;product=structural protein;protein_id=QHZ00361.1
+MT039873.1	Genbank	gene	27199	27384	.	+	.	ID=gene-ORF6;Name=ORF6;gbkey=Gene;gene=ORF6;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	27199	27384	.	+	0	ID=cds-QHZ00362.1;Parent=gene-ORF6;Dbxref=NCBI_GP:QHZ00362.1;Name=QHZ00362.1;gbkey=CDS;gene=ORF6;product=ORF6 protein;protein_id=QHZ00362.1
+MT039873.1	Genbank	gene	27391	27756	.	+	.	ID=gene-ORF7a;Name=ORF7a;gbkey=Gene;gene=ORF7a;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	27391	27756	.	+	0	ID=cds-QHZ00363.1;Parent=gene-ORF7a;Dbxref=NCBI_GP:QHZ00363.1;Name=QHZ00363.1;gbkey=CDS;gene=ORF7a;product=ORF7a protein;protein_id=QHZ00363.1
+MT039873.1	Genbank	gene	27891	28256	.	+	.	ID=gene-ORF8;Name=ORF8;gbkey=Gene;gene=ORF8;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	27891	28256	.	+	0	ID=cds-QHZ00364.1;Parent=gene-ORF8;Dbxref=NCBI_GP:QHZ00364.1;Name=QHZ00364.1;gbkey=CDS;gene=ORF8;product=ORF8 protein;protein_id=QHZ00364.1
+MT039873.1	Genbank	gene	28271	29530	.	+	.	ID=gene-N;Name=N;gbkey=Gene;gene=N;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	28271	29530	.	+	0	ID=cds-QHZ00365.1;Parent=gene-N;Dbxref=NCBI_GP:QHZ00365.1;Name=QHZ00365.1;gbkey=CDS;gene=N;product=structural protein;protein_id=QHZ00365.1
+MT039873.1	Genbank	gene	29555	29671	.	+	.	ID=gene-ORF10;Name=ORF10;gbkey=Gene;gene=ORF10;gene_biotype=protein_coding
+MT039873.1	Genbank	CDS	29555	29671	.	+	0	ID=cds-QHZ00366.1;Parent=gene-ORF10;Dbxref=NCBI_GP:QHZ00366.1;Name=QHZ00366.1;gbkey=CDS;gene=ORF10;product=ORF10 proteiin;protein_id=QHZ00366.1
+MT039873.1	Genbank	three_prime_UTR	29672	29833	.	+	.	ID=id-MT039873.1:29672..29833;gbkey=3'UTR
+

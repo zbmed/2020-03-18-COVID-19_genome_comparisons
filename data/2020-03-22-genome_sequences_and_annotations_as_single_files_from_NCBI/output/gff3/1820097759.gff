@@ -1,0 +1,6 @@
+##sequence-region MT163714.1 1 399
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT163714.1	Genbank	region	1	399	.	+	.	ID=MT163714.1:1..399;Dbxref=taxon:2697049;collection-date=29-Feb-2020;country=India;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/341/human/2020/IND;mol_type=genomic RNA;nat-host=Homo sapiens
+MT163714.1	Genbank	gene	1	399	.	+	.	ID=gene-N;Name=N;end_range=399,.;gbkey=Gene;gene=N;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT163714.1	Genbank	CDS	1	399	.	+	0	ID=cds-QII87775.1;Parent=gene-N;Dbxref=NCBI_GP:QII87775.1;Name=QII87775.1;end_range=399,.;gbkey=CDS;gene=N;partial=true;product=nucleocapsid protein;protein_id=QII87775.1;start_range=.,1
+

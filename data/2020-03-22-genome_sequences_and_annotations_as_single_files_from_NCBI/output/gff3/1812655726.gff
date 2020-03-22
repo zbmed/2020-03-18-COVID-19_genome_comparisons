@@ -1,0 +1,8 @@
+##sequence-region MT111896.1 1 569
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT111896.1	Genbank	region	1	569	.	+	.	ID=MT111896.1:1..569;Dbxref=taxon:2697049;collection-date=Feb-2020;country=Australia: Queensland;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/QLD05/human/2020_FSS918/AUS;isolation-source=sputum;mol_type=genomic RNA;nat-host=Homo sapiens
+MT111896.1	Genbank	gene	1	335	.	+	.	ID=gene-orf3a;Name=orf3a;gbkey=Gene;gene=orf3a;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT111896.1	Genbank	CDS	1	335	.	+	2	ID=cds-QID88858.1;Parent=gene-orf3a;Dbxref=NCBI_GP:QID88858.1;Name=QID88858.1;gbkey=CDS;gene=orf3a;partial=true;product=ORF3a;protein_id=QID88858.1;start_range=.,1
+MT111896.1	Genbank	gene	360	569	.	+	.	ID=gene-E;Name=E;end_range=569,.;gbkey=Gene;gene=E;gene_biotype=protein_coding;partial=true
+MT111896.1	Genbank	CDS	360	569	.	+	0	ID=cds-QID88859.1;Parent=gene-E;Dbxref=NCBI_GP:QID88859.1;Name=QID88859.1;end_range=569,.;gbkey=CDS;gene=E;partial=true;product=envelope protein;protein_id=QID88859.1
+

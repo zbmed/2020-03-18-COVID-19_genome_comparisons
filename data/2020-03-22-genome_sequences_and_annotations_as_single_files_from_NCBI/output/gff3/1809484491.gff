@@ -1,0 +1,6 @@
+##sequence-region MT066159.1 1 290
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT066159.1	Genbank	region	1	290	.	+	.	ID=MT066159.1:1..290;Dbxref=taxon:2697049;collection-date=24-Jan-2020;country=Malaysia;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/CL5049/human/2020/MYS;isolation-source=nasopharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens
+MT066159.1	Genbank	gene	1	290	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=290,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT066159.1	Genbank	CDS	1	290	.	+	1	ID=cds-QIA98594.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIA98594.1;Name=QIA98594.1;end_range=290,.;gbkey=CDS;gene=orf1ab;partial=true;product=orf1ab polyprotein;protein_id=QIA98594.1;start_range=.,1
+

@@ -1,0 +1,6 @@
+##sequence-region MT187977.1 1 406
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT187977.1	Genbank	region	1	406	.	+	.	ID=MT187977.1:1..406;Dbxref=taxon:2697049;collection-date=Mar-2020;country=Italy: Cagliari;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/MBS-Cagliari-1/human/2020/ITA;isolation-source=oropharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens
+MT187977.1	Genbank	gene	1	406	.	+	.	ID=gene-N;Name=N;end_range=406,.;gbkey=Gene;gene=N;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT187977.1	Genbank	CDS	1	406	.	+	2	ID=cds-QIK02783.1;Parent=gene-N;Dbxref=NCBI_GP:QIK02783.1;Name=QIK02783.1;end_range=406,.;gbkey=CDS;gene=N;partial=true;product=nucleocapsid phosphoprotein;protein_id=QIK02783.1;start_range=.,1
+

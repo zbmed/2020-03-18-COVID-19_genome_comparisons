@@ -1,0 +1,6 @@
+##sequence-region MT186676.1 1 363
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT186676.1	Genbank	region	1	363	.	+	.	ID=MT186676.1:1..363;Dbxref=taxon:2697049;collection-date=03-Mar-2020;country=Iran: Tehran;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/1337/human/2020/IRN;mol_type=genomic RNA;nat-host=Homo sapiens
+MT186676.1	Genbank	gene	1	363	.	+	.	ID=gene-N;Name=N;end_range=363,.;gbkey=Gene;gene=N;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT186676.1	Genbank	CDS	1	363	.	+	2	ID=cds-QIK02784.1;Parent=gene-N;Dbxref=NCBI_GP:QIK02784.1;Name=QIK02784.1;end_range=363,.;gbkey=CDS;gene=N;partial=true;product=nucleocapsid phosphoprotein;protein_id=QIK02784.1;start_range=.,1
+

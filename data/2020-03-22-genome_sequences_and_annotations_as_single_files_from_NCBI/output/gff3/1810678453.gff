@@ -1,0 +1,5 @@
+##sequence-region MT072667.1 1 670
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT072667.1	Genbank	region	1	670	.	+	.	ID=MT072667.1:1..670;Dbxref=taxon:2697049;collection-date=03-Feb-2020;country=Belgium;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/GHB-03021/human/2020/BEL;mol_type=genomic RNA;nat-host=Homo sapiens
+MT072667.1	Genbank	CDS	1	670	.	+	0	ID=cds-QIB84670.1;Dbxref=NCBI_GP:QIB84670.1;Name=QIB84670.1;end_range=670,.;gbkey=CDS;partial=true;product=orf1ab polyprotein;protein_id=QIB84670.1;start_range=.,1
+

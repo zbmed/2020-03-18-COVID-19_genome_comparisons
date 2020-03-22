@@ -1,0 +1,5 @@
+##sequence-region MT050414.1 1 562
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT050414.1	Genbank	region	1	562	.	+	.	ID=MT050414.1:1..562;Dbxref=taxon:2697049;collection-date=Jan-2020;country=Australia;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/QLD01/human/2020_FSS915/AUS;isolation-source=pharyngeal swab;mol_type=genomic RNA;nat-host=Homo sapiens;old-name=Wuhan seafood market pneumonia virus
+MT050414.1	Genbank	CDS	1	562	.	+	1	ID=cds-QIA20054.1;Dbxref=NCBI_GP:QIA20054.1;Name=QIA20054.1;end_range=562,.;gbkey=CDS;partial=true;product=ORF1ab polyprotein;protein_id=QIA20054.1;start_range=.,1
+

@@ -1,0 +1,6 @@
+##sequence-region MT072668.1 1 810
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+MT072668.1	Genbank	region	1	810	.	+	.	ID=MT072668.1:1..810;Dbxref=taxon:2697049;collection-date=03-Feb-2020;country=Belgium;gb-acronym=SARS-CoV-2;gbkey=Src;genome=genomic;isolate=SARS-CoV-2/GHB-03021/human/2020/BEL;mol_type=genomic RNA;nat-host=Homo sapiens
+MT072668.1	Genbank	gene	1	810	.	+	.	ID=gene-orf1ab;Name=orf1ab;end_range=810,.;gbkey=Gene;gene=orf1ab;gene_biotype=protein_coding;partial=true;start_range=.,1
+MT072668.1	Genbank	CDS	1	810	.	+	1	ID=cds-QIB84671.1;Parent=gene-orf1ab;Dbxref=NCBI_GP:QIB84671.1;Name=QIB84671.1;end_range=810,.;gbkey=CDS;gene=orf1ab;partial=true;product=orf1ab polyprotein;protein_id=QIB84671.1;start_range=.,1
+

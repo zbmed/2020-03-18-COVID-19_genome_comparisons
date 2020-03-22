@@ -1,0 +1,6 @@
+##sequence-region LC523808.1 1 357
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2697049
+LC523808.1	DDBJ	region	1	357	.	+	.	ID=LC523808.1:1..357;Dbxref=taxon:2697049;collection-date=2020-01-26;country=Philippines;gb-acronym=SARS-CoV-2;gbkey=Src;isolate=2019-nCoV_PH_nCOV_20_025;mol_type=genomic RNA;nat-host=Homo sapiens
+LC523808.1	DDBJ	gene	1	357	.	+	.	ID=gene-N;Name=N;end_range=357,.;gbkey=Gene;gene=N;gene_biotype=protein_coding;partial=true;start_range=.,1
+LC523808.1	DDBJ	CDS	1	357	.	+	1	ID=cds-BCA37477.1;Parent=gene-N;Dbxref=NCBI_GP:BCA37477.1;Name=BCA37477.1;end_range=357,.;gbkey=CDS;gene=N;partial=true;product=nucleocapsid phosphoprotein;protein_id=BCA37477.1;start_range=.,1
+
