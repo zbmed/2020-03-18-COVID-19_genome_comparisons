@@ -9,6 +9,7 @@ main(){
     readonly OUTPUT_CLUSTALO_FASTA=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_clustal_omega.fasta
     readonly OUTPUT_KALIGN_FASTA=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_kalign.fasta
     readonly OUTPUT_KALIGN_TREE_PREFIX=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_kalign_raxml_tree
+    readonly OUTPUT_KALIGN_SNP=${OUTPUT_FOLDER}/SARS-CoV-2_sequences_above_${MIN_LENGTH}_MSA_kalign_SNPs.vcf
 
 
     generate_folders
@@ -20,6 +21,7 @@ main(){
     run_msa_with_clustal_omega
     run_msa_with_kalign
     create_tree_with_raxml_ng
+    find_snps
 }
 
 generate_folders(){
@@ -76,6 +78,11 @@ create_tree_with_raxml_ng(){
 	--seed 1
 }
 
-
+find_snps(){
+    snp-sites \
+	-v \
+	-o ${OUTPUT_KALIGN_SNP} \
+	${OUTPUT_KALIGN_FASTA}
+}
 
 main
