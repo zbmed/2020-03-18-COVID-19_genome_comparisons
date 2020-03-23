@@ -1,0 +1,29 @@
+
+RAxML-NG v. 0.9.0 released on 20.05.2019 by The Exelixis Lab.
+Developed by: Alexey M. Kozlov and Alexandros Stamatakis.
+Contributors: Diego Darriba, Tomas Flouri, Benoit Morel, Sarah Lutteropp, Ben Bettisworth.
+Latest version: https://github.com/amkozlov/raxml-ng
+Questions/problems/suggestions? Please visit: https://groups.google.com/forum/#!forum/raxml
+
+RAxML-NG was called at 23-Mar-2020 09:58:46 as follows:
+
+raxml-ng --msa output/SARS-CoV-2_sequences_above_29000_MSA_kalign_cleaned_name.fasta --prefix output/SARS-CoV-2_sequences_above_29000_MSA_kalign_raxml_tree --threads 2 --seed 1
+
+Analysis options:
+  run mode: ML tree search
+  start tree(s): random (10) + parsimony (10)
+  random seed: 1
+  tip-inner: OFF
+  pattern compression: ON
+  per-rate scalers: OFF
+  site repeats: ON
+  fast spr radius: AUTO
+  spr subtree cutoff: 1.000000
+  branch lengths: proportional (ML estimate, algorithm: NR-FAST)
+  SIMD kernels: AVX
+  parallelization: PTHREADS (2 threads), thread pinning: OFF
+
+[00:00:00] Loading binary alignment from file: output/SARS-CoV-2_sequences_above_29000_MSA_kalign_cleaned_name.fasta
+[00:00:00] Alignment comprises 0 taxa, 0 partitions and 0 patterns
+
+

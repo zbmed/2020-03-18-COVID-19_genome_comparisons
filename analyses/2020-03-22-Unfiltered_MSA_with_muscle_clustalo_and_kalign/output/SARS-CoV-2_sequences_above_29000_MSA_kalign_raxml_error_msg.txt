@@ -1,0 +1,2 @@
+raxml-ng: /opt/conda/conda-bld/raxml-ng_1569616353378/work/src/main.cpp:170: void init_part_info(RaxmlInstance&): Assertion `parted_msa.part_count() > 0' failed.
+Aborted (core dumped)
